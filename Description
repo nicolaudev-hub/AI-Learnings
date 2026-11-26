@@ -1,0 +1,139 @@
+1. Você define claramente oque o público-alvo do seu conteúdo. 
+O que parece ser
+“ Estou escrevendo isso para o meu gerente, que prefere listas com marcadores. ”
+
+“ O público-alvo deste material são estudantes universitários que estão começando a estudar o assunto. ”
+
+“ Isso precisa funcionar para executivos que têm apenas 2 minutos para ler. ”
+
+Mostrar todos os 10 exemplos
+Coisas para experimentar:
+
+Antes de fazer seu próximo pedido, diga a Claude quem lerá o resultado final e o que é mais importante para essa pessoa.
+
+Peça a Claude para ajustar o nível de leitura ou o tom para um tipo específico de leitor.
+
+2. Você especifica o formato e a estrutura que precisa.
+Indicar à IA exatamente como você deseja que as informações sejam organizadas economiza tempo e reduz as revisões constantes.
+
+O que parece ser
+“ Preciso disso como uma lista numerada com cabeçalhos. ”
+
+Você pode formatar isso como uma tabela de comparação de duas colunas ?
+
+“ Me dê isso em formato de esboço, eu posso expandir depois. ”
+
+Mostrar todos os 10 exemplos
+Coisas para experimentar:
+
+Solicite um formato específico antecipadamente: 'Me dê isso como uma lista com marcadores, com no máximo 5 itens.'
+
+Peça a Claude para reestruturar o conteúdo existente em um formato diferente, como uma tabela ou um esquema.
+
+Você comunica o tom e o estilo que combinam com a sua voz.
+Hide
+Ao compartilhar seu estilo preferido com a IA, você tem mais chances de obter resultados que pareçam autênticos e que exijam menos edição.
+
+O que parece ser
+Escreva isso em um tom coloquial, como se eu estivesse explicando para um amigo .
+
+“ Igualar ao estilo acadêmico formal dos meus outros trabalhos. ”
+
+“ Costumo usar frases curtas e evitar jargões. ”
+
+Mostrar todos os 10 exemplos
+Coisas para experimentar
+
+Descreva seu estilo de escrita para Claude: "Prefiro frases curtas e um tom informal."
+
+Compartilhe um exemplo de sua própria escrita e peça a Claude para reproduzir esse estilo.
+
+Você divide tarefas complexas em etapas menores para que a IA as siga.
+Hide
+Guiar a IA por um processo passo a passo ajuda a manter o controle e a detectar problemas no início, em vez de no final.
+
+O que parece ser
+“ Primeiro analise os dados e depois resuma as principais conclusões. ”
+
+“ Vamos começar com um esboço antes de escrever a versão completa. ”
+
+“ Explique-me seu raciocínio antes de me dar a resposta final. ”
+
+Mostrar todos os 10 exemplos
+Coisas para experimentar
+
+Para sua próxima tarefa complexa, peça a Claude para começar com um esboço ou plano antes de mergulhar de cabeça.
+
+Diga a Claude: 'Vamos dividir isso em etapas. O que devemos abordar primeiro?'
+
+Vocês se baseiam em trocas anteriores para aprimorar o trabalho em conjunto.
+Hide
+Tratar a conversa com a IA como uma colaboração contínua, em vez de solicitações pontuais, leva a resultados progressivamente melhores.
+
+O que parece ser
+“ Com base no que discutimos anteriormente, vamos ajustar a abordagem. ”
+
+“ Isso está mais próximo — você pode especificar melhor a área da saúde? ”
+
+“ Bom começo. Agora vamos incorporar o feedback que recebi. ”
+
+Mostrar todos os 10 exemplos
+Coisas para experimentar
+
+Em vez de começar do zero, diga a Claude o que manter e o que alterar em relação à última resposta.
+
+Fazendo referência a partes anteriores da sua conversa: 'Com base no que você disse sobre X, vamos agora...'
+
+Você fornece exemplos do que é considerado bom.
+Hide
+Mostrar à IA exemplos concretos das suas expectativas comunica muito mais do que descrições abstratas jamais conseguiriam.
+
+O que parece ser
+“ Aqui está um exemplo de e-mail que escrevi e que tem o tom certo. ”
+
+“ Este relatório do último trimestre é o formato que eu quero seguir. ”
+
+“ Gostei de como este artigo explica ideias complexas de forma simples — faça algo parecido. ”
+
+Mostrar todos os 10 exemplos
+Coisas para experimentar
+
+Cole um exemplo de trabalho que você goste e peça a Claude para seguir esse padrão.
+
+Antes de fazer seu pedido, diga: 'Aqui está um exemplo do que estou procurando...'.
+
+Você diz à IA como deseja que ela interaja com você.
+Hide
+Definir expectativas sobre como a IA se comporta durante a conversa ajuda você a obter o tipo de parceiro de pensamento que precisa.
+
+O que parece ser
+“ Seja direto e questione minhas suposições se você perceber alguma inconsistência. ”
+
+“ Faça-me perguntas para esclarecer quaisquer dúvidas antes de começar a escrever. ”
+
+“ Mantenha suas respostas breves para que possamos iterar rapidamente. ”
+
+Mostrar todos os 10 exemplos
+Coisas para experimentar
+
+Inicie uma conversa dizendo a Claude como interagir: "Mantenha as respostas com menos de 3 parágrafos."
+
+Peça ao Claude para entrar em contato com você: 'Faça-me 2 ou 3 perguntas antes de começar a escrever.'
+
+Você define limites sobre o que a IA deve e não deve fazer.
+Hide
+Definir limites claros ajuda a IA a se concentrar no que é mais importante para você e a evitar esforços desperdiçados.
+
+O que parece ser
+“ Não sugira soluções ainda. Apenas me ajude a entender o problema. ”
+
+“ Concentre-se apenas no aspecto de marketing, não nos detalhes técnicos. ”
+
+“ Apegue-se às informações que eu forneci, em vez de fazer suposições. ”
+
+Mostrar todos os 10 exemplos
+Coisas para experimentar
+
+Adicione restrições à sua próxima solicitação: 'Use apenas as informações que eu forneci.'
+
+Diga a Claude o que NÃO fazer: "Não me dê soluções ainda — apenas me ajude a explorar o problema."
